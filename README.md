@@ -12,9 +12,9 @@
   </a>
 </p>
 
-<p>THANKS!! Reference Page.
+THANKS!! Reference Page.  
 https://zenn.dev/yutakatay/articles/kirakira-github-profile
-</p>
+
 
 <!--
 **windblume/windblume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
